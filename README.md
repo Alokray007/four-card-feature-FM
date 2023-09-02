@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Alokray007/four-card-feature-FM)
-- Live Site URL: [Netlify- Live Site](https://fourcardfeat.netlify.app/)
+- Live Site URL: [Netlify- Live Site](https://fourcrdfeat.netlify.app/)
 
 ## My process
 
